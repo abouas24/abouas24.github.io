@@ -3,6 +3,7 @@ OWNERDOMAIN=abouas24.github.io
 # Direct
 google.com, pub-5037903866168576, DIRECT, f08c47fec0942fa0
 ironsrc.com, 688969, DIRECT
+facebook.com, 2202514720680213, DIRECT, c3e20eee3f780d68
 # Unity Ads (from the Unity dashboard, Organization settings -> App-ads.txt)
 thunder-monetize.com, 2158729563, RESELLER
 undertone.com, 4108, RESELLER
